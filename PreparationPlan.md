@@ -23,10 +23,7 @@ Please be familiar with following tools and technologies (this is not complete t
 You will need to install:
 
 - Git
-- Node (latest)
-- NPM (globally)
-- Gulp (globally)
-- Webpack (globally)
+- Node (Recommend - Node Version Manager: [https://github.com/tj/n](https://github.com/tj/n))
 - [Postman](getpostman.com)
 - For screencasting: [Screencloud](https://screencloud.net/) or recordmydesktop (CLI) for video recordings
 
